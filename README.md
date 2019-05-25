@@ -3,7 +3,7 @@
 It's a easy demo for search engine. We crawl the page from three search engines:yahoo, google, bing
 
 ### Introduction:
-Step1:run the meta_search_engine.py
+Step1:Run the meta_search_engine.py
 <p>
 Step2:Enter the query word
 <p>
